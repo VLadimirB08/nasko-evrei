@@ -1,0 +1,2 @@
+# nasko-evrei
+Purvo repositiry
